@@ -1,0 +1,65 @@
+[
+  {
+    "id": 0,
+    "from": "system",
+    "content": "*** Rachelle joined the chat ***\n",
+    "timestamp": "2026-02-17T17:48:28.584656949+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 1,
+    "from": "system",
+    "content": "*** Roy joined the chat ***\n",
+    "timestamp": "2026-02-17T17:48:28.585672696+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 2,
+    "from": "system",
+    "content": "*** Rachelle joined the chat ***\n",
+    "timestamp": "2026-02-17T17:55:52.361105511+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 3,
+    "from": "system",
+    "content": "*** Roy joined the chat ***\n",
+    "timestamp": "2026-02-17T17:55:52.366307515+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 4,
+    "from": "Rachelle",
+    "content": "Hello!",
+    "timestamp": "2026-02-17T17:55:52.466983387+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 5,
+    "from": "system",
+    "content": "*** Rachelle joined the chat ***\n",
+    "timestamp": "2026-02-17T17:57:45.735698533+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 6,
+    "from": "system",
+    "content": "*** Roy joined the chat ***\n",
+    "timestamp": "2026-02-17T17:57:45.743253008+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 7,
+    "from": "Rachelle",
+    "content": "Hello!",
+    "timestamp": "2026-02-17T17:57:45.844135512+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 8,
+    "from": "Roy",
+    "content": "Hello!",
+    "timestamp": "2026-02-17T17:57:45.845858869+07:00",
+    "channel": "global"
+  }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "id": 0,
+    "from": "system",
+    "content": "*** Roy joined the chat ***\n",
+    "timestamp": "2026-02-17T17:59:19.158732951+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 1,
+    "from": "system",
+    "content": "*** Rachelle joined the chat ***\n",
+    "timestamp": "2026-02-17T17:59:27.798192669+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 2,
+    "from": "system",
+    "content": "*** Buddy joined the chat ***\n",
+    "timestamp": "2026-02-17T17:59:43.851003779+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 3,
+    "from": "Buddy",
+    "content": "Hello, mates!\n",
+    "timestamp": "2026-02-17T17:59:55.383263312+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 4,
+    "from": "Roy",
+    "content": "Hi, Buddy. How are you?\n",
+    "timestamp": "2026-02-17T18:00:25.597309614+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 5,
+    "from": "Buddy",
+    "content": "I'm good, bro! How are you guys?\n",
+    "timestamp": "2026-02-17T18:01:10.244856602+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 6,
+    "from": "Roy",
+    "content": "I'm best\n",
+    "timestamp": "2026-02-17T18:01:59.746921056+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 7,
+    "from": "Rachelle",
+    "content": "Not really\n",
+    "timestamp": "2026-02-17T18:02:13.106886858+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 8,
+    "from": "Roy",
+    "content": "Do you guys play honkai?\n",
+    "timestamp": "2026-02-17T18:03:44.918527442+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 9,
+    "from": "Buddy",
+    "content": "I'm not\n",
+    "timestamp": "2026-02-17T18:03:58.475819385+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 10,
+    "from": "Rachelle",
+    "content": "Y, play the game since release\n",
+    "timestamp": "2026-02-17T18:05:17.009606488+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 11,
+    "from": "system",
+    "content": "*** GET / HTTP/1.1 joined the chat ***\n",
+    "timestamp": "2026-02-17T18:07:24.379521965+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 12,
+    "from": "system",
+    "content": "*** GET / HTTP/1.1 left the chat ***\n",
+    "timestamp": "2026-02-17T18:07:24.506921326+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 13,
+    "from": "system",
+    "content": "*** GET / HTTP/1.1 joined the chat ***\n",
+    "timestamp": "2026-02-17T18:07:25.412333034+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 14,
+    "from": "system",
+    "content": "*** GET / HTTP/1.1 left the chat ***\n",
+    "timestamp": "2026-02-17T18:07:25.908685644+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 15,
+    "from": "system",
+    "content": "*** GET / HTTP/1.1 joined the chat ***\n",
+    "timestamp": "2026-02-17T18:07:30.429166328+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 16,
+    "from": "system",
+    "content": "*** GET / HTTP/1.1 left the chat ***\n",
+    "timestamp": "2026-02-17T18:07:31.288125167+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 17,
+    "from": "system",
+    "content": "*** GET / HTTP/1.1 joined the chat ***\n",
+    "timestamp": "2026-02-17T18:08:00.447076534+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 18,
+    "from": "system",
+    "content": "*** GET / HTTP/1.1 left the chat ***\n",
+    "timestamp": "2026-02-17T18:08:00.458906909+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 19,
+    "from": "system",
+    "content": "*** GET / HTTP/1.1 joined the chat ***\n",
+    "timestamp": "2026-02-17T18:09:00.459597101+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 20,
+    "from": "system",
+    "content": "*** Buddy left the chat ***\n",
+    "timestamp": "2026-02-17T18:09:00.471353969+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 21,
+    "from": "system",
+    "content": "*** Roy left the chat ***\n",
+    "timestamp": "2026-02-17T18:09:00.472410768+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 22,
+    "from": "system",
+    "content": "*** GET / HTTP/1.1 left the chat ***\n",
+    "timestamp": "2026-02-17T18:09:00.47312833+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 23,
+    "from": "system",
+    "content": "*** Pai joined the chat ***\n",
+    "timestamp": "2026-02-17T18:09:23.625431385+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 24,
+    "from": "system",
+    "content": "*** Saria joined the chat ***\n",
+    "timestamp": "2026-02-17T18:09:42.589555026+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 25,
+    "from": "system",
+    "content": "*** Lulu joined the chat ***\n",
+    "timestamp": "2026-02-17T18:09:51.50013844+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 26,
+    "from": "system",
+    "content": "*** Sam joined the chat ***\n",
+    "timestamp": "2026-02-17T18:09:56.215428507+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 27,
+    "from": "Sam",
+    "content": "Hi guys!\n",
+    "timestamp": "2026-02-17T18:10:13.711267549+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 28,
+    "from": "Pai",
+    "content": "Supp?\n",
+    "timestamp": "2026-02-17T18:10:21.398036291+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 29,
+    "from": "system",
+    "content": "*** Rachelle left the chat ***\n",
+    "timestamp": "2026-02-17T18:10:21.403486408+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 30,
+    "from": "Saria",
+    "content": "the heck left the chat\n",
+    "timestamp": "2026-02-17T18:10:51.08606206+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 31,
+    "from": "Lulu",
+    "content": "LOL\n",
+    "timestamp": "2026-02-17T18:10:56.049743391+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 32,
+    "from": "system",
+    "content": "*** Roy joined the chat ***\n",
+    "timestamp": "2026-02-17T18:57:56.23160663+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 33,
+    "from": "system",
+    "content": "*** Iwak joined the chat ***\n",
+    "timestamp": "2026-02-17T18:58:02.660392813+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 34,
+    "from": "system",
+    "content": "*** t.Fatal(\"Client1 didn't receive correct message\") joined the chat ***\n",
+    "timestamp": "2026-02-17T18:59:13.972933749+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 35,
+    "from": "t.Fatal(\"Client1 didn't receive correct message\")",
+    "content": "}\n",
+    "timestamp": "2026-02-17T18:59:13.984751019+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 36,
+    "from": "t.Fatal(\"Client1 didn't receive correct message\")",
+    "content": "case \u003c-time.After(1 * time.Second):\n",
+    "timestamp": "2026-02-17T18:59:13.9854615+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 37,
+    "from": "system",
+    "content": "*** Iwak left the chat ***\n",
+    "timestamp": "2026-02-17T18:59:13.986177546+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 38,
+    "from": "t.Fatal(\"Client1 didn't receive correct message\")",
+    "content": "t.Fatal(\"Client1 didn't receive message\")clear\n",
+    "timestamp": "2026-02-17T18:59:23.686458675+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 39,
+    "from": "t.Fatal(\"Client1 didn't receive correct message\")",
+    "content": "Iwak\n",
+    "timestamp": "2026-02-17T18:59:27.802848175+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 40,
+    "from": "t.Fatal(\"Client1 didn't receive correct message\")",
+    "content": "exit\n",
+    "timestamp": "2026-02-17T18:59:30.110874774+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 41,
+    "from": "system",
+    "content": "t.Fatal(\"Client1 didn't receive correct message\") left the chat\n",
+    "timestamp": "2026-02-17T18:59:37.247639832+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 42,
+    "from": "system",
+    "content": "*** Iwak joined the chat ***\n",
+    "timestamp": "2026-02-17T18:59:41.302144044+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 43,
+    "from": "system",
+    "content": "*** t.Fatal(\"Client1 didn't receive correct message\") left the chat ***\n",
+    "timestamp": "2026-02-17T18:59:41.308462711+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 44,
+    "from": "system",
+    "content": "Iwak left the chat\n",
+    "timestamp": "2026-02-17T18:59:46.849024563+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 45,
+    "from": "Roy",
+    "content": "Sup\n",
+    "timestamp": "2026-02-17T19:02:03.855390686+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 46,
+    "from": "system",
+    "content": "*** Iwak left the chat ***\n",
+    "timestamp": "2026-02-17T19:02:03.86733435+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 47,
+    "from": "system",
+    "content": "*** Quit joined the chat ***\n",
+    "timestamp": "2026-02-17T19:02:13.439211415+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 48,
+    "from": "Quit",
+    "content": "Hai\n",
+    "timestamp": "2026-02-17T19:02:16.238957669+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 49,
+    "from": "Roy",
+    "content": "Sup?\n",
+    "timestamp": "2026-02-17T19:02:21.375170672+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 50,
+    "from": "Quit",
+    "content": "Mek\n",
+    "timestamp": "2026-02-17T19:02:24.113076117+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 51,
+    "from": "Roy",
+    "content": "Iwak\n",
+    "timestamp": "2026-02-17T19:02:27.252272973+07:00",
+    "channel": "global"
+  }
+]
