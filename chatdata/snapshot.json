@@ -362,5 +362,180 @@
     "content": "Iwak\n",
     "timestamp": "2026-02-17T19:02:27.252272973+07:00",
     "channel": "global"
+  },
+  {
+    "id": 52,
+    "from": "system",
+    "content": "*** Iwak joined the chat ***\n",
+    "timestamp": "2026-02-17T21:30:35.960634883+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 53,
+    "from": "system",
+    "content": "*** Rachelle joined the chat ***\n",
+    "timestamp": "2026-02-17T21:30:52.335154261+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 54,
+    "from": "Iwak",
+    "content": "HaiHi!\n",
+    "timestamp": "2026-02-17T21:31:00.628455132+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 55,
+    "from": "Rachelle",
+    "content": "Sup\n",
+    "timestamp": "2026-02-17T21:31:16.73978707+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 56,
+    "from": "Iwak",
+    "content": "iwaaakkk\n",
+    "timestamp": "2026-02-17T21:31:41.516225878+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 57,
+    "from": "Rachelle",
+    "content": "Heck wak\n",
+    "timestamp": "2026-02-17T21:31:52.133693322+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 58,
+    "from": "Iwak",
+    "content": "Yes. But this the global one\n",
+    "timestamp": "2026-02-17T21:34:53.189697709+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 59,
+    "from": "system",
+    "content": "*** Sara joined the chat ***\n",
+    "timestamp": "2026-02-17T21:35:04.92901143+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 60,
+    "from": "Iwak",
+    "content": "Sent twice lol\n",
+    "timestamp": "2026-02-17T21:35:40.260849544+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 61,
+    "from": "Sara",
+    "content": "What's that?\n",
+    "timestamp": "2026-02-17T21:35:52.868326822+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 62,
+    "from": "Rachelle",
+    "content": "Nothing\n",
+    "timestamp": "2026-02-17T21:35:57.624105382+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 63,
+    "from": "Iwak",
+    "content": "LOL\n",
+    "timestamp": "2026-02-17T21:36:37.350018086+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 64,
+    "from": "Rachelle",
+    "content": "How're you, Sara?\n",
+    "timestamp": "2026-02-17T21:36:53.987004175+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 65,
+    "from": "Sara",
+    "content": "I'm fine, mate\n",
+    "timestamp": "2026-02-17T21:37:03.34238094+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 66,
+    "from": "Iwak",
+    "content": "Just arrived?\n",
+    "timestamp": "2026-02-17T21:37:22.863390547+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 67,
+    "from": "Sara",
+    "content": "Yes\n",
+    "timestamp": "2026-02-17T21:37:25.97155328+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 68,
+    "from": "Sara",
+    "content": "Okay\n",
+    "timestamp": "2026-02-17T21:37:51.118248839+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 69,
+    "from": "Iwak",
+    "content": "I'm leaving. Bye\n",
+    "timestamp": "2026-02-17T21:38:30.965163471+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 70,
+    "from": "Sara",
+    "content": "Me too\n",
+    "timestamp": "2026-02-17T21:38:36.482817428+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 71,
+    "from": "Rachelle",
+    "content": "Me too (2)\n",
+    "timestamp": "2026-02-17T21:38:53.302868266+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 72,
+    "from": "system",
+    "content": "Iwak left the chat\n",
+    "timestamp": "2026-02-17T21:38:57.482557315+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 73,
+    "from": "system",
+    "content": "Rachelle left the chat\n",
+    "timestamp": "2026-02-17T21:39:02.552240909+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 74,
+    "from": "system",
+    "content": "*** Iwak left the chat ***\n",
+    "timestamp": "2026-02-17T21:39:02.564401095+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 75,
+    "from": "system",
+    "content": "Sara left the chat\n",
+    "timestamp": "2026-02-17T21:39:05.924773366+07:00",
+    "channel": "global"
+  },
+  {
+    "id": 76,
+    "from": "system",
+    "content": "*** Rachelle left the chat ***\n",
+    "timestamp": "2026-02-17T21:39:05.930877178+07:00",
+    "channel": "global"
   }
 ]
